@@ -1,4 +1,4 @@
-# tote
+# /TOTE
 
 Tote is a new and sleek web language coded with python.
 
