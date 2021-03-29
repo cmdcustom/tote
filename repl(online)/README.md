@@ -1,1 +1,1 @@
-[Fork This Repl](https://www.google.com)
+[Fork This Repl!](https://replit.com/talk/share/Tote-New-Web-Lang/131848)
